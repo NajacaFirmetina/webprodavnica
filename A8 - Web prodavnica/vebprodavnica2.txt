@@ -1,0 +1,2 @@
+0001 iPhone 12 Pro            Apple               3GB  Hexa-core      12MP      6.1       slike/iphone12.jpg            1200     
+0002 Galaxy s20               Samsung             3GB  Octa-core      64MP      6.2       slike/galaxys20.jpg           1200     

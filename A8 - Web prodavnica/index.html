@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web prodavnica</title>
+    <link rel="stylesheet" href="css.css">
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+
+</head>
+<body>
+    <ul>
+        <li class="nav-li"><a class="active" href="index.html">Web prodavnica</a></li>
+        <li class="nav-li"><a href="uputstvo.html">Korisnicko uputstvo</a></li>
+    </ul>
+    <select name="Proizvodjac" id="iProizvodjac">
+        <option></option>
+        <option value="Apple">Apple</option>
+        <option value="Samsung">Samsung</option>
+        <option value="Google">Google</option>
+        <option value="OnePlus">OnePlus</option>
+        <option value="Huawei">Huawei</option>
+        <option value="Motorola">Motorola</option>
+        <option value="Nokia">Nokia</option>
+        <option value="LG">LG</option>
+        <option value="Sony">Sony</option>
+    </select>
+    <select name="RAM memorija" id="iRAM">
+        <option></option>
+        <option value="4GB">4GB</option>
+        <option value="6GB">6GB</option>
+        <option value="8GB">8GB</option>
+        <option value="12GB">12GB</option>
+    </select>
+    <select name="Procesor" id="iProcesor">
+        <option></option>
+        <option value="Hexa-core">Hexa-core</option>
+        <option value="Octa-core">Octa-core</option>
+    </select>
+    <select name="Kamera" id="iKamera">
+        <option></option>
+        <option value="12MP">12MP</option>
+        <option value="16MP">16MP</option>
+        <option value="48MP">48MP</option>
+        <option value="50MP">50MP</option>
+        <option value="64MP">64MP</option>
+    </select>
+    <select name="Ekran" id="iEkran">
+        <option></option>
+        <option value="6">6</option>
+        <option value="6.1">6.1</option>
+        <option value="6.2">6.2</option>
+        <option value="6.55">6.55</option>
+        <option value="6.76">6.76</option>
+        <option value="6.8">6.8</option>
+        <option value="6.81">6.81</option>
+    </select>
+    <button id="iTrazi">Trazi</button><br><br>
+    <div id="iDiv">
+        <table>
+            <tbody>
+                <tr>
+                    <td>Slika</td>
+                    <td>Sifra</td>
+                    <td>Naziv</td>
+                    <td>Proizvodjac</td>
+                    <td>RAM memorija</td>
+                    <td>Tip procesora</td>
+                    <td>Kamera</td>
+                    <td>Ekran</td>
+                    <td>Cena</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <script src="js.js"></script>
+</body>
+</html>

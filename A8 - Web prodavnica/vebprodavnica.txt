@@ -1,0 +1,9 @@
+0001|iPhone 12 Pro|Apple|6GB|Hexa-core|12MP|6.1|slike/iphone12.jpg|1460
+0002|Galaxy s20|Samsung|8GB|Octa-core|64MP|6.2|slike/galaxys20.jpg|695
+0003|Pixel 5|Google|8GB|Octa-core|16MP|6|slike/pixel5.jpg|720
+0004|8T|OnePlus|12GB|Octa-core|48MP|6.55|slike/8t.jpg|690
+0005|Mate 40 Pro|Huawei|8GB|Octa-core|50MP|6.76|slike/mate40pro.jpg|1200
+0006|Moto G9 Plus|Motorola|4GB|Octa-core|64MP|6.81|slike/motog9plus.jpg|215
+0007|8.3 5G|Nokia|8GB|Octa-core|64MP|6.81|slike/8.35g.jpg|440
+0008|Velvet 5G|LG|6GB|Octa-core|48MP|6.8|slike/velvet5g.jpg|450
+0009|Xperia 10 II|Sony|4GB|Octa-core|12MP|6|slike/xperia10ii.jpg|350
